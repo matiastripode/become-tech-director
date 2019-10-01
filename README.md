@@ -1,5 +1,5 @@
 # Become a Tech Director
-Here I am going to list what an engineer needs to know in order to become Tech Director
+Here I am going to list what I consider it is required for an engineer to become Tech Director
 
 
 
