@@ -34,39 +34,39 @@ Here I am going to list what an engineer needs to know in order to become Tech D
 	- AI
 	- IoT
 ## Engineering
-	- Security
-	- Performance
-		- JMeter scripts, postman
-	- Architecture & System Design
-		- Scalability: Horizontal and Vertical
-		- Async Task/Jobs
-		- Distributed queue, Pub / Sub
-		- Messaging platform (1:1, group)
-	- Monitoring & alerting
-    - Agent vs Agentless approach
-    - OpenSource vs Paid solutions
-	- Developing best practices
-		- Trunk based vs feature branches
- 		- Code reviews
-		- Linters (smart automatic code style checker and more)
-		- Danger (smart automatic code reviews)
-		- Tech design (Architecture, class, interaction diagrams)
-		- SonarQ (Code smells, maintainability, robustness, security, bugs, etc)
-		- CI/CD pipelines (Jenkins, build --> unit tests --> integration tests --> SonarQ --> build .ipa/apk --> upload to hockeyApp)
-		- Postman
+- Security
+- Performance
+	- JMeter scripts, postman
+- Architecture & System Design
+	- Scalability: Horizontal and Vertical
+	- Async Task/Jobs
+	- Distributed queue, Pub / Sub
+	- Messaging platform (1:1, group)
+- Monitoring & alerting
+- Agent vs Agentless approach
+- OpenSource vs Paid solutions
+- Developing best practices
+	- Trunk based vs feature branches
+	- Code reviews
+	- Linters (smart automatic code style checker and more)
+	- Danger (smart automatic code reviews)
+	- Tech design (Architecture, class, interaction diagrams)
+	- SonarQ (Code smells, maintainability, robustness, security, bugs, etc)
+	- CI/CD pipelines (Jenkins, build --> unit tests --> integration tests --> SonarQ --> build .ipa/apk --> upload to hockeyApp)
+	- Postman
 ## Testing Best Practices
-    - Unit Testing
-    - Integrations testing
-    - E2E Testing
-    *Level up: BDD and TDD*
-    - TDD
-    - BDD
+- Unit Testing
+- Integrations testing
+- E2E Testing
+*Level up: BDD and TDD*
+- TDD
+- BDD
 ## Mobile Development
-  	- Feature toggle
-		- Applanga for translation
-		- Mobile caching layer (Realm, Firebase, CouchMobile), BFF, GraphQL
-		- Native (Swift / Kotlin) vs React Native vs hybrid (Cordova)
-		- Charles Proxy Debugger for resilient applications 
+- Feature toggle
+- Applanga for translation
+- Mobile caching layer (Realm, Firebase, CouchMobile), BFF, GraphQL
+- Native (Swift / Kotlin) vs React Native vs hybrid (Cordova)
+- Charles Proxy Debugger for resilient applications 
 	
 ## REFERENCES
 - [Engineering Management](https://github.com/charlax/engineering-management)
