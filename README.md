@@ -24,15 +24,15 @@ Here I am going to list what an engineer needs to know in order to become Tech D
 	- Delegate properly
 	- Coach so can delegate even more
 ## Culture
-	- Vision (mobile first, ai first, cloud first companies)
-	- Strategy, Principles, Practices
+- Vision (mobile first, ai first, cloud first companies)
+- Strategy, Principles, Practices
 ## Inspire and Promote Engineering Culture
 - Tech Blog
 - Tech Talks
 - Hackathons
 ## Innovation
-	- AI
-	- IoT
+- AI
+- IoT
 ## Engineering
 - Security
 - Performance
@@ -58,9 +58,9 @@ Here I am going to list what an engineer needs to know in order to become Tech D
 - Unit Testing
 - Integrations testing
 - E2E Testing
-*Level up: BDD and TDD*
-- TDD
-- BDD
+- **Level up: BDD and TDD**
+	- TDD
+	- BDD
 ## Mobile Development
 - Feature toggle
 - Applanga for translation
