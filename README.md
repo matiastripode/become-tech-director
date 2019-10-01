@@ -6,7 +6,7 @@ Here I am going to list what I consider it is required for an engineer to become
 ## Hiring & developing team members career
 - Hiring & retain talent
 - Define Roles & responsibilities
-- 	https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities
+	- https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities
 - Metrics for People
 	- Performance metrics
 - How to champion Engineering with product owners
