@@ -31,8 +31,8 @@ Here I am going to list what an engineer needs to know in order to become Tech D
 - Tech Talks
 - Hackathons
 ## Innovation
-- AI
-- IoT
+- AI (Chat bot, Analytics, Recommender Systems, 3D Vision, Fraud Detection, etc)
+- IoT (Wereables to improve and customize user experience)
 ## Engineering
 - Security
 - Performance
