@@ -71,6 +71,7 @@ Here I am going to list what an engineer needs to know in order to become Tech D
 ## REFERENCES
 - [Engineering Management](https://github.com/charlax/engineering-management)
 - [Libro: Desarrollo de Software Ágil en 10Pines](https://10pines.gitbook.io/desarrollo-de-software-agil-en-10pines/)
+- [Globant](https://www.globant.com/#home)
 
 ## ENGINEERING BLOGS
 - [Uber Engineering Blog](https://eng.uber.com/)
