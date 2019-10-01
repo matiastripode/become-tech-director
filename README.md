@@ -89,3 +89,5 @@ Here I am going to list what I consider it is required for an engineer to become
 
 - [Yelp Engineering and Product Blog](https://engineeringblog.yelp.com/)
 
+## My Profile in Linkedin
+- [Matias Tripode](https://www.linkedin.com/in/matiastripode/)
