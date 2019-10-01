@@ -3,37 +3,37 @@ Here I am going to list what an engineer needs to know in order to become Tech D
 
 
 
-Hiring & developing team members career
+## Hiring & developing team members career
 - Hiring & retain talent
 - Define Roles & responsibilities
 - 	https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities
 - Metrics for People
 	- Performance metrics
 - How to champion Engineering with product owners
-Agility
+## Agility
 - Scrum
 	- Estimations: buffer it for engineering best practices
 - Optimize Daily meetings
   - Only communicate blockers. Simple status can be communicated on slack: what I did yesterday and what I'm working on today
   - Use it to share knowledge and coordinate cross platform efforts
-Time Management
+## Time Management
 - Meetings
   - Remove unnecesary meetings
   - Encourage all meetings with agenda to optimize time
 - Multiply & scale your time
 	- Delegate properly
 	- Coach so can delegate even more
-Culture
+## Culture
 	- Vision (mobile first, ai first, cloud first companies)
 	- Strategy, Principles, Practices
-Inspire and Promote Engineering Culture
+## Inspire and Promote Engineering Culture
 - Tech Blog
 - Tech Talks
 - Hackathons
-Innovation
+## Innovation
 	- AI
 	- IoT
-Engineering
+## Engineering
 	- Security
 	- Performance
 		- JMeter scripts, postman
@@ -54,36 +54,36 @@ Engineering
 		- SonarQ (Code smells, maintainability, robustness, security, bugs, etc)
 		- CI/CD pipelines (Jenkins, build --> unit tests --> integration tests --> SonarQ --> build .ipa/apk --> upload to hockeyApp)
 		- Postman
-  - Testing Best Practices
+## Testing Best Practices
     - Unit Testing
     - Integrations testing
     - E2E Testing
-  - Level up: BDD and TDD
+    *Level up: BDD and TDD*
     - TDD
     - BDD
-  - Mobile Development
+## Mobile Development
   	- Feature toggle
 		- Applanga for translation
 		- Mobile caching layer (Realm, Firebase, CouchMobile), BFF, GraphQL
 		- Native (Swift / Kotlin) vs React Native vs hybrid (Cordova)
 		- Charles Proxy Debugger for resilient applications 
 	
-REFERENCES
-- https://github.com/charlax/engineering-management
-- Desarrollo de Software Ágil en 10Pines https://10pines.gitbook.io/desarrollo-de-software-agil-en-10pines/
+## REFERENCES
+- [Engineering Management](https://github.com/charlax/engineering-management)
+- [Libro: Desarrollo de Software Ágil en 10Pines](https://10pines.gitbook.io/desarrollo-de-software-agil-en-10pines/)
 
-ENGINEERING BLOGS
-- Uber Engineering Blog https://eng.uber.com/
+## ENGINEERING BLOGS
+- [Uber Engineering Blog](https://eng.uber.com/)
 
-- Netflix TechBlog – Medium https://medium.com/netflix-techblog
+- [Netflix TechBlog – Medium](https://medium.com/netflix-techblog)
 
-- Facebook Engineering Blog: Facebook Code https://code.fb.com/
+- [Facebook Engineering Blog: Facebook Code](https://code.fb.com/)
 
-- Blog | LinkedIn Engineering https://engineering.linkedin.com/blog
+- [Blog | LinkedIn Engineering](https://engineering.linkedin.com/blog)
 
-- Airbnb Engineering & Data Science – Medium https://medium.com/airbnb-engineering
+- [Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering)
 
-- Engineering - Twitter Blog https://blog.twitter.com/engineering/en_us.html
+- [Engineering - Twitter Blog](https://blog.twitter.com/engineering/en_us.html)
 
-- Yelp Engineering and Product Blog https://engineeringblog.yelp.com/
+- [Yelp Engineering and Product Blog](https://engineeringblog.yelp.com/)
 
