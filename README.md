@@ -33,6 +33,8 @@ Here I am going to list what I consider it is required for an engineer to become
 ## Innovation
 - AI (Chat bot, Analytics, Recommender Systems, 3D Vision, Fraud Detection, etc)
 - IoT (Wereables to improve and customize user experience)
+## Product Management / Ideation
+- (miro)[https://miro.com]
 ## Engineering
 - Security
 	- [Security engineering, applied cryptography, secure software development](https://github.com/vixentael/my-talks)
@@ -58,12 +60,15 @@ Here I am going to list what I consider it is required for an engineer to become
 	- Postman
 ## Testing Best Practices
 - Unit Testing
-- [Writing Unit Testeable Code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
+- [Unit Testing Best Practices](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
+- [Writing Testeable Code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
+- [Tech Talk: Psychology of Testing by Misko Hevery](https://www.youtube.com/watch?time_continue=1&v=pqomi6W4AJ4)
 - Integrations testing
 - E2E Testing
 - **Level up: BDD and TDD**
 	- TDD
 	- BDD
+		- [Applying BDD acceptance criteria in user stories](https://www.thoughtworks.com/insights/blog/applying-bdd-acceptance-criteria-user-stories)
 ## Mobile Development
 - Feature toggle
 - Applanga for translation
