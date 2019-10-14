@@ -43,8 +43,9 @@ Here I am going to list what I consider it is required for an engineer to become
 	- Distributed queue, Pub / Sub
 	- Messaging platform (1:1, group)
 - Monitoring & alerting
-- Agent vs Agentless approach
-- OpenSource vs Paid solutions
+	- Agent vs Agentless approach
+	- OpenSource vs Paid solutions
+- [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - Developing best practices
 	- Trunk based vs feature branches
 	- Code reviews
