@@ -35,6 +35,7 @@ Here I am going to list what I consider it is required for an engineer to become
 - IoT (Wereables to improve and customize user experience)
 ## Engineering
 - Security
+	- [Security engineering, applied cryptography, secure software development](https://github.com/vixentael/my-talks)
 - Performance
 	- JMeter scripts, postman
 - Architecture & System Design
