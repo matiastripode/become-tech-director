@@ -58,6 +58,7 @@ Here I am going to list what I consider it is required for an engineer to become
 	- Postman
 ## Testing Best Practices
 - Unit Testing
+- [Writing Unit Testeable Code](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
 - Integrations testing
 - E2E Testing
 - **Level up: BDD and TDD**
