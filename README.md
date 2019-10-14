@@ -31,10 +31,16 @@ Here I am going to list what I consider it is required for an engineer to become
 - Tech Talks
 - Hackathons
 ## Innovation
+- Innovation
+	- [The eight essentials of innovation](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-eight-essentials-of-innovation)
+	- [Innovation with Hackathons](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/demystifying-the-hackathon)
 - AI (Chat bot, Analytics, Recommender Systems, 3D Vision, Fraud Detection, etc)
+	- [AI Business School](https://aischool.microsoft.com/en-us/business/learning-paths)
+	- [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - IoT (Wereables to improve and customize user experience)
+	- [UX meets IoT](https://theblog.adobe.com/ux-meets-iot-designing-human-interactions-smart-devices/)
 ## Product Management / Ideation
-- (miro)[https://miro.com]
+- [miro](https://miro.com)
 ## Engineering
 - Security
 	- [Security engineering, applied cryptography, secure software development](https://github.com/vixentael/my-talks)
