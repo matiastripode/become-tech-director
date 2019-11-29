@@ -58,6 +58,8 @@ Here I am going to list what I consider it is required for an engineer to become
 - Developing best practices
 	- Trunk based vs feature branches
 	- Code reviews
+		- [The Engineering Manager's Guide to the Code Review Process](https://www.gitprime.com/guides/code-review/)
+		- [Google: Code Health: Respectful Reviews](https://docs.google.com/document/d/1_Gljf1TMTV2WPsiXCdk8oIkiq6uiajN_IqGdlD7u3Mc/edit)
 	- Linters (smart automatic code style checker and more)
 	- Danger (smart automatic code reviews)
 	- Tech design (Architecture, class, interaction diagrams)
