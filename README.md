@@ -11,6 +11,7 @@ Here I am going to list what I consider it is required for an engineer to become
 	- Performance metrics
 - How to champion Engineering with product owners
 ## Agility
+- [Atlassian's no-nonsense guide to agile development](https://www.atlassian.com/agile)
 - Scrum
 	- Estimations: buffer it for engineering best practices
 - Optimize Daily meetings
